@@ -45,3 +45,4 @@ function switchstyles(){
    styleload()
     }
 }
+window.onload = window.location.href('https://geometry-games.online');
